@@ -1,0 +1,11 @@
+D:\JobApps\SpaceXLaunchSearch\SpaceXLaunchSearchApi\SpaceXLaunchSearchApi\bin\Debug\netcoreapp2.0\SpaceXLaunchSearchApi.deps.json
+D:\JobApps\SpaceXLaunchSearch\SpaceXLaunchSearchApi\SpaceXLaunchSearchApi\bin\Debug\netcoreapp2.0\SpaceXLaunchSearchApi.runtimeconfig.json
+D:\JobApps\SpaceXLaunchSearch\SpaceXLaunchSearchApi\SpaceXLaunchSearchApi\bin\Debug\netcoreapp2.0\SpaceXLaunchSearchApi.runtimeconfig.dev.json
+D:\JobApps\SpaceXLaunchSearch\SpaceXLaunchSearchApi\SpaceXLaunchSearchApi\bin\Debug\netcoreapp2.0\SpaceXLaunchSearchApi.dll
+D:\JobApps\SpaceXLaunchSearch\SpaceXLaunchSearchApi\SpaceXLaunchSearchApi\bin\Debug\netcoreapp2.0\SpaceXLaunchSearchApi.pdb
+D:\JobApps\SpaceXLaunchSearch\SpaceXLaunchSearchApi\SpaceXLaunchSearchApi\obj\Debug\netcoreapp2.0\SpaceXLaunchSearchApi.csproj.CoreCompileInputs.cache
+D:\JobApps\SpaceXLaunchSearch\SpaceXLaunchSearchApi\SpaceXLaunchSearchApi\obj\Debug\netcoreapp2.0\SpaceXLaunchSearchApi.AssemblyInfoInputs.cache
+D:\JobApps\SpaceXLaunchSearch\SpaceXLaunchSearchApi\SpaceXLaunchSearchApi\obj\Debug\netcoreapp2.0\SpaceXLaunchSearchApi.AssemblyInfo.cs
+D:\JobApps\SpaceXLaunchSearch\SpaceXLaunchSearchApi\SpaceXLaunchSearchApi\obj\Debug\netcoreapp2.0\SpaceXLaunchSearchApi.dll
+D:\JobApps\SpaceXLaunchSearch\SpaceXLaunchSearchApi\SpaceXLaunchSearchApi\obj\Debug\netcoreapp2.0\SpaceXLaunchSearchApi.pdb
+D:\JobApps\SpaceXLaunchSearch\SpaceXLaunchSearchApi\SpaceXLaunchSearchApi\obj\Debug\netcoreapp2.0\SpaceXLaunchSearchApi.csprojResolveAssemblyReference.cache
